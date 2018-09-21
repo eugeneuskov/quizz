@@ -1,0 +1,11 @@
+.main-programming-wrapper .dropdown {
+  display: none;
+}
+
+.main-programming-wrapper .dropdown.active {
+  display: block;
+}
+
+.main-programming-wrapper .programming-item {
+  cursor: pointer;
+}
