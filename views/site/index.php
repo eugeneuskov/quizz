@@ -39,11 +39,6 @@ $this->title = 'Yii Test App';
             <div class="col-lg-3">
                 <h2>Задача 4</h2>
 
-                <p>
-                  К сожалению, виджет реализовать мне не удалось...<br>
-                  Само же кэширование реализовано средствами Yii2 "из коробки"
-                </p>
-
                 <p><a class="btn btn-default" href="/programming">Решение</a></p>
             </div>
 
